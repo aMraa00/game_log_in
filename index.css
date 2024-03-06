@@ -99,7 +99,7 @@ button{
     font-size: .9em;
     color: aliceblue;
     text-align: center;
-    margin: 25px 0 10px;
+    margin: 10px 0 10px;
 }
 .register p a {
     text-decoration: none;
@@ -110,9 +110,10 @@ button{
     text-decoration: underline;
 }
 .play{
-    font-size: .9em;
+    font-size: 1em;
     color: aliceblue;
     text-align: center;
+    font-weight: 600;
     margin: 25px 0 10px;
 }
 .play a {
