@@ -73,12 +73,13 @@ input:valid ~ label{
     font-size: .9em;
     color: aliceblue;
     display: flex;
-    justify-content: center;
+    justify-content:start;
 }
-.forget label a {
+.forget {
     margin-right: 3px;
+    justify-content: space-between;
 }
-.forget label a{
+.forget a{
     color: aliceblue;
     text-decoration: none;
 }
